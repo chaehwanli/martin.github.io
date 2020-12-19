@@ -29,7 +29,7 @@ rectangle "audio storage manager system" {
     }
 }
 
-login -[hidden]- registryAudio
+registryAudio -[hidden]- login
 registryAudio -[hidden]- addMetaData
 addMetaData -[hidden]- downloadStorageData
 
