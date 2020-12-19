@@ -23,6 +23,7 @@ well defined MetaData
 |age |baby, kids, young, adult, senior, ...|
 |locale|ko_KR, en_US, en_IN, fr_FR, ...|
 ## Basic Flow
+
 1. login
 2. registry Audio
 ## Alternate Flows
