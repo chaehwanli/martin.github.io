@@ -12,6 +12,7 @@ Requirements
 
 
 layout checker가 기존에 있지 않나?
+
 [checkerframework](https://github.com/typetools/annotation-tools/) 에 대해서 공부는 필요하지만 layout checker 를 만드는 것은 당장은 필요 없는것 같다.
 
 layout check 는 [espresso](https://developer.android.com/training/testing/espresso?hl=ko) 를 통해서 할수 있는 방향으로.
