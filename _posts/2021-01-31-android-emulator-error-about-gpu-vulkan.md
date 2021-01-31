@@ -14,7 +14,7 @@ I got AVD as {home}.android\avd\Pixel_3a_API_30_x86.avd
 and gpu is enabled.
 So, I change some config (config.ini)
 >>hw.gpu.enabled=yes
-hw.gpu.mode=host
+hw.gpu.mode=sofware
 
 Then I can run AVD.
 
