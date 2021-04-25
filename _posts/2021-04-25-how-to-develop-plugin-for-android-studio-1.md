@@ -3,9 +3,9 @@ layout : post
 title : How to develop plugin for Android Studio_1
 ---
 
-#How to develop plugin for Android Studio #1
+# How to develop plugin for Android Studio #1
 
-##Reference links
+## Reference links
 > [Android Studio Plugin Development - Yalantis](https://yalantis.com/blog/android-studio-plugin-development/)
 >
 > [Android Studio plugin](https://plugins.jetbrains.com/docs/intellij/android-studio.html#configuring-intellij-platform-projects-for-android-studio-plugin-development)
@@ -17,7 +17,7 @@ title : How to develop plugin for Android Studio_1
 >
 > [JDK Downloads](https://www.oracle.com/java/technologies/javase-downloads.html)
 
-##Check
+## Check
 Matching Versions of the IntelliJ Platform with the Android Studio Version
 
 > Intellij version of [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjwg4-EBhBwEiwAzYAlsvsDYDr0rnSGoUBf2Adiy3oRjnedkwTg3if3U2Cyqyl6pFaoOiNC-RoC0dQQAvD_BwE&gclsrc=aw.ds)
