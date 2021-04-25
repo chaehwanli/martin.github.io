@@ -59,6 +59,7 @@ Kotlin: 211-1.4.32-release-IJ6693.72
 >> Branch number (211)
 >>
 >> Build number in the branch (6693)
+>>
 >> [more info](https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html)
 >
 >
