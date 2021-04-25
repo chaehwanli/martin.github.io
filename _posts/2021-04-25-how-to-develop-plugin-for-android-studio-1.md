@@ -12,7 +12,8 @@ title : How to develop plugin for Android Studio_1
 >
 > [안드로이드 스튜디오 플러그인 직접 만들어보기 - 차영호](https://academy.realm.io/kr/posts/android-studio-plugin-development/)
 >
-##Downloads
+
+## Downloads
 > [Intellij IDEA Community](https://www.jetbrains.com/ko-kr/idea/download/#section=windows)
 >
 > [JDK Downloads](https://www.oracle.com/java/technologies/javase-downloads.html)
