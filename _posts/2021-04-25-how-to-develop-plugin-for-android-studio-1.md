@@ -21,7 +21,7 @@ title : How to develop plugin for Android Studio_1
 ## Check
 Matching Versions of the IntelliJ Platform with the Android Studio Version
 
-> Intellij version of [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjwg4-EBhBwEiwAzYAlsvsDYDr0rnSGoUBf2Adiy3oRjnedkwTg3if3U2Cyqyl6pFaoOiNC-RoC0dQQAvD_BwE&gclsrc=aw.ds)
+> ### Intellij version of [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjwg4-EBhBwEiwAzYAlsvsDYDr0rnSGoUBf2Adiy3oRjnedkwTg3if3U2Cyqyl6pFaoOiNC-RoC0dQQAvD_BwE&gclsrc=aw.ds)
 >
 >> Android Studio - Help - About
 >
@@ -36,7 +36,7 @@ Cores: 8
 Registry: ide.new.welcome.screen.force=true, external.system.auto.import.disabled=true
 Non-Bundled Plugins: com.thoughtworks.gauge, org.intellij.plugins.markdown, com.intellij.marketplace
 >
-> Intellij version
+> ### Intellij version
 >
 >> IntelliJ - Help - About
 >
