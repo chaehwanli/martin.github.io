@@ -18,17 +18,10 @@ title : translate bytebuddy doc
 번역 목표로 하는 페이지 목록
 1. [Develop](https://bytebuddy.net/#/develop)
 > 
-1. chrome 번역- 8/22
-2. - TBD
-3. - TBD
-4. - TBD
+* chrome 번역- 8/22
 
 2. [Tutorial](https://bytebuddy.net/#/tutorial)
 > 
-1. - TBD
-2. - TBD
-3. - TBD
-4. - TBD
 
 # Develop
 
