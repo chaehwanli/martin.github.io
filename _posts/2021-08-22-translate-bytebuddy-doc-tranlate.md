@@ -7,26 +7,28 @@ title : translate bytebuddy doc
 전문 번역가가 아닌 관계로 번역 용어에 대한 다름이 있을수 있음.
 
 아래와 같은 단계로 이루어질 예정임.
-1차 - Chrome 번역
-2차 - 부자연스러운 번역 수정
-3차 - 전문 번역 용어 검색
-4차 - Review
+1. Chrome 번역
+2. 부자연스러운 번역 수정
+3. 전문 번역 용어 검색
+4. Review
 
 # Byte Buddy
 [github](https://github.com/raphw/byte-buddy)
 
 번역 목표로 하는 페이지 목록
 1. [Develop](https://bytebuddy.net/#/develop)
-> 1차 - 8/22
-2차 - TBD
-3차 - TBD
-4차 - TBD
+> 
+1. chrome 번역- 8/22
+2. - TBD
+3. - TBD
+4. - TBD
 
 2. [Tutorial](https://bytebuddy.net/#/tutorial)
-> 1차 - TBD
-2차 - TBD
-3차 - TBD
-4차 - TBD
+> 
+1. - TBD
+2. - TBD
+3. - TBD
+4. - TBD
 
 # Develop
 
